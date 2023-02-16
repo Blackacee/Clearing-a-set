@@ -1,2 +1,3 @@
 # Clearing-a-set
-Clearing a set 
+
+mySet.clear();
